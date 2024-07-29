@@ -1,0 +1,233 @@
+﻿  Boton.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(20,14): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(21,14): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(22,14): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(33,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(34,21): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(34,16): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(34,11): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(35,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(44,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(45,21): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(45,16): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(45,11): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(46,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(58,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(63,21): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(63,16): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(63,11): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(69,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(71,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(81,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(82,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(91,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(92,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(93,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(103,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(104,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(113,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(114,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(115,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(125,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(126,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(135,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(136,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(137,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(147,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(148,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(157,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(158,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(159,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(169,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(170,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(191,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(192,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(201,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(202,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(203,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(213,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(214,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(223,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(224,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(225,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(235,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(236,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(245,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(246,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(247,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(257,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(258,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(268,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(273,21): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(273,16): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(273,11): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(279,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(281,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(291,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(292,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(301,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(302,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(303,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(313,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(314,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(323,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(324,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(325,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(335,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(336,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(345,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(346,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(347,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(357,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(358,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(367,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(368,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(369,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(379,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(380,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(401,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(402,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(411,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(412,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(413,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(423,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(424,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(433,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(434,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(435,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(445,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(446,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(455,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(456,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(457,15): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(467,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(468,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  igvCamara.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvPunto3D.h(25,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-X>' cuando no hay ninguna variable declarada
+  igvColor.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+  igvEscena3D.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvPunto3D.h(25,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-X>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(79,38): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(80,43): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(82,48): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(82,27): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(83,54): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(83,26): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(85,27): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(86,26): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(88,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(89,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(92,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(95,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(236,19): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(237,19): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvEscena3D.cpp(244,19): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  igvFuenteLuz.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvPunto3D.h(25,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-X>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvFuenteLuz.cpp(135,44): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvFuenteLuz.cpp(136,42): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvFuenteLuz.cpp(137,45): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvFuenteLuz.cpp(140,35): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvFuenteLuz.cpp(141,37): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  igvInterfaz.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvPunto3D.h(25,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-X>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(9,1): warning C4005: 'M_PI': redefinición de macro
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\SDL_stdinc.h(620): message : vea la definición anterior de 'M_PI'
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(81,9): warning C4101: 'zrefN': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(76,9): warning C4101: 'yN': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(75,9): warning C4101: 'xN': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(91,9): warning C4101: 'alfa': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(87,9): warning C4101: 'yTot': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(94,9): warning C4101: 'yy': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(79,9): warning C4101: 'xrefN': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(93,9): warning C4101: 'xx': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(86,9): warning C4101: 'xTot': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(80,9): warning C4101: 'yrefN': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(77,9): warning C4101: 'zN': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(90,9): warning C4101: 'radio': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(95,9): warning C4101: 'zz': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(88,9): warning C4101: 'zTot': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(382,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(383,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(384,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(398,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(399,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(400,18): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(424,34): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(425,34): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(432,34): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(988,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(989,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(969,9): warning C4101: 'yy': variable local sin referencia
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(1111,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(1112,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Vicen\Desktop\proyectoFinal\igvInterfaz.cpp(1092,9): warning C4101: 'yy': variable local sin referencia
+  igvMaterial.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvMaterial.cpp(34,47): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  igvPunto3D.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvPunto3D.h(25,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-X>' cuando no hay ninguna variable declarada
+  igvTextura.cpp
+  Modelo.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(36,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(38,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(62,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(64,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(85,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(87,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(107,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(109,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(132,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(146,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(162,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(508,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(509,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(517,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(518,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(563,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(564,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(579,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(580,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(603,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(617,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(649,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(706,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(721,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(753,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(895,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(903,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(910,23): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(917,23): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(923,21): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Nodo.cpp
+  ProyectoFinal.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvPunto3D.h(25,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-X>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+  Tractor.cpp
+C:\Users\Vicen\Desktop\proyectoFinal\igvColor.h(17,2): warning C4091: 'typedef ': se ha omitido a la izquierda de '<unnamed-enum-R>' cuando no hay ninguna variable declarada
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(127,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(143,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(337,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(344,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(353,20): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(361,20): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(461,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(474,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(612,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(619,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(628,20): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(636,20): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Generando código...
+C:\Users\Vicen\Desktop\proyectoFinal\Tractor.cpp(667): warning C4172: devolución de dirección de la variable local o temporal: colorubyte
+C:\Users\Vicen\Desktop\proyectoFinal\Modelo.cpp(1186): warning C4172: devolución de dirección de la variable local o temporal: colorubyte
+C:\Users\Vicen\Desktop\proyectoFinal\Boton.cpp(577): warning C4172: devolución de dirección de la variable local o temporal: colorubyte
+igvTextura.obj : error LNK2019: símbolo externo _SDL_GetError sin resolver al que se hace referencia en la función "public: __thiscall igvTextura::igvTextura(char *)" (??0igvTextura@@QAE@PAD@Z)
+igvTextura.obj : error LNK2019: símbolo externo _SDL_FreeSurface sin resolver al que se hace referencia en la función "public: __thiscall igvTextura::igvTextura(char *)" (??0igvTextura@@QAE@PAD@Z)
+igvTextura.obj : error LNK2019: símbolo externo _IMG_Load sin resolver al que se hace referencia en la función "public: __thiscall igvTextura::igvTextura(char *)" (??0igvTextura@@QAE@PAD@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo _main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Vicen\Desktop\proyectoFinal\Project1\Debug\Project1.exe : fatal error LNK1120: 4 externos sin resolver
