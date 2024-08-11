@@ -1,6 +1,3 @@
-## Autor
-* Vicente Castellano Gomez, vicentecastellano65@gmail.com - vcg00025@red.ujaen.es
-
 # Scape Room OpenGL
 
 Este proyecto es una pequeña demo con fines educativos de un juego de tipo Escape Room desarrollado utilizando **OpenGL**. El objetivo principal es crear una experiencia inmersiva en la que el jugador deba resolver acertijos y encontrar pistas para escapar de una habitación cerrada. El proyecto se centra en la renderización gráfica 3D y la interacción en tiempo real.
@@ -35,4 +32,7 @@ Este proyecto es una pequeña demo con fines educativos de un juego de tipo Esca
 2. Accede al directorio del proyecto: `cd ScapeRoomOpenGL`
 3. Configura y compila el proyecto utilizando CMake: `cmake .` y luego `make`.
 4. Ejecuta el juego: `./ScapeRoomOpenGL`.
+
+## Autor
+* Vicente Castellano Gomez, vicentecastellano65@gmail.com - vcg00025@red.ujaen.es
 
